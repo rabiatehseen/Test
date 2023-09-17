@@ -1,0 +1,1 @@
+Document.write('This is demo file');
